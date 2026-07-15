@@ -1,5 +1,5 @@
-name: ecclesia_frontend
-description: Ecclesia SaaS Frontend
+name: orflux_frontend
+description: OrFlux SaaS Frontend
 publish_to: 'none'
 version: 1.0.0+1
 

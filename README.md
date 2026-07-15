@@ -1,6 +1,6 @@
-# Ecclesia Frontend
+# OrFlux Frontend
 
-Frontend implementation for the Ecclesia SaaS platform, built with Flutter.
+Frontend implementation for the OrFlux SaaS platform, built with Flutter.
 
 ## Getting Started
 
